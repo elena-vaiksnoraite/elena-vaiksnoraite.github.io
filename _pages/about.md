@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm a graduate student in Linguistics.
 
-Office:
+<b>Office:</b>
 
 <b>Research areas:</b> Syntax-semantics, experimental semantics
 
