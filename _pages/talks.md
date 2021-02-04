@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <ul>
-<li> Vaikšnoraitė, E. 2019. Russian is the new Czech: An experimental study of genitive of negation, Formal Approaches to Slavic Linguistics, Stony Brook, USA</li>
 
 <li>Vaikšnoraitė, E. 2019. Genitive of Negation: an experimental investigation of genitive/accusative case alternation in Russian, Formal Approaches to Russian Linguistics, MGU, Moscow.</li>
 
@@ -19,3 +18,8 @@ author_profile: true
 <li>Culicover, C. Alishahi, A. & E. Vaikšnoraitė. 2016. The constructional evolution of grammatical functions and the thematic representation of events. Events in Language & Cognition March 2, 2016 Gainesville, FL</li>
 
 </ul>
+
+<b> Posters </b>
+
+Vaikšnoraitė, E. 2019. Russian is the new Czech: An experimental study of genitive of negation, Formal Approaches to Slavic Linguistics, Stony Brook, USA</li>
+
