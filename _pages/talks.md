@@ -25,7 +25,7 @@ author_profile: true
 
 <ul>
   
-Vaikšnoraitė, E. 2019. Russian is the new Czech: An experimental study of genitive of negation, Formal Approaches to Slavic Linguistics, Stony Brook, USA</li>
+<li> Vaikšnoraitė, E. 2019. Russian is the new Czech: An experimental study of genitive of negation, Formal Approaches to Slavic Linguistics, Stony Brook, USA </li>
 
 </ul>
 
