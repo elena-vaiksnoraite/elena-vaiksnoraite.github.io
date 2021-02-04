@@ -5,6 +5,8 @@ author_profile: true
 
 ---
 
+<b> Talks </b>
+
 <ul>
 
 <li>Vaikšnoraitė, E. 2019. Genitive of Negation: an experimental investigation of genitive/accusative case alternation in Russian, Formal Approaches to Russian Linguistics, MGU, Moscow.</li>
@@ -21,5 +23,9 @@ author_profile: true
 
 <b> Posters </b>
 
+<ul>
+  
 Vaikšnoraitė, E. 2019. Russian is the new Czech: An experimental study of genitive of negation, Formal Approaches to Slavic Linguistics, Stony Brook, USA</li>
+
+</ul>
 
