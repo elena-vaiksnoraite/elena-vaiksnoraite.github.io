@@ -5,6 +5,20 @@ author_profile: true
 
 ---
 
+<b> Journal publications </b>
+
+<li> Vaiksnoraite, E. 2021. A direct analysis of Lithuanian phrasal comparatives. Glossa: a journal of general linguistics, 6(1).
+
+<b> Conference Proceedings </b>
+
+<ul>
+ 
+<li> Vaikšnoraite E., de Marneffe M. C., Tonhauser J. 2019. The prosody of presupposition projection: A production experiment //Proceedings of NELS. – 2019. – Т. 29. – С. 241-254.</li>
+
+<li> Vaikšnoraitė E. 2018. Lithuanian phrasal comparatives without covert syntactic structures //International Conference on Formal Grammar. – Springer, Berlin, Heidelberg, 2018. – С. 121-135.</li>
+
+</ul>
+
 <b> Talks </b>
 
 <ul>
