@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projects | Elena Vaikšnoraitė </title>
+  <meta name="description" content="Data projects by Elena Vaikšnoraitė.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="projects-page">
+    <a class="back" href="index.html">← Back to home</a>
+    <h1 class="page-title">Projects</h1>
+    <p class="page-intro">
+      A collection of my data-related and more theoretical projects. 
+    </p>
+
+    <div class="projects">
+             <article class="project">
+              <div class="thumb">
+             <img src="pics/exp1-example.png" alt="A still from an experiment" style="max-width: 100%; height: auto;">
+          </div>
+            <h3>Measuring the prosody of speaker commitments</h3>
+            <div class="chips">
+              <span class="chip">Python</span>
+              <span class="chip">R</span>
+              <span class="chip">Praat</span>
+              <span class="chip">Data cleaning</span>
+              <span class="chip">Data visualization</span>
+            </div>
+            <p>
+            When a person states that "Perhaps John stopped smoking", it is often assumed that the speaker is commited to 
+            the fact that "John used to smoke". This is not necessarily the case. This paper asks whether people "sound"
+            different when they commit to a fact versus simply speculate about it. 
+            Fourteen participants read short stories alous. I processed 114 recordings by
+            extracting acoustic properties of the signal in Praat, hand-correcting the automated output, and 
+            annotating intonational patterns with blinded coders. I then fit linear and logistic mixed-effect models in R (lme4) with random effects for speakerand sentence to account for individual
+            variation, normalizing for speech rate and pitch range across participants. The analysis
+            surfaced three statistically significant signals. This project shows my approach to data work:
+            careful experimental design, rigorous cleaning and exclusion criteria, appropriate statistical modelling and translating subtle patterns
+            in messy real-world data into clear, defensible conlusions.
+             <a class="here" href="https://github.com/elena-vaiksnoraite/Prosody_presupposition_projection" target="_blank" rel="noopener noreferrer">View more on Github.→</a>
+            </p>
+            
+          </article>
+
+          <article class="project">
+             <div class="thumb">
+             <img src="pics/exp1-age.png" alt="Distribution of cases" style="max-width: 100%; height: auto; display: block;">
+          </div>
+            <h3>Measuring language variation with survey data: 
+              What 94 speakers of Russian reveal about case usage</h3>
+            <div class="chips">
+              <span class="chip">Data cleaning</span>
+              <span class="chip">Data visualization</span>
+              <span class="chip">R</span>
+              <span class="chip">PCIbex</span>
+            </div>
+            <p>
+            In Russian there are two ways to say "cat" in the sentence "I didn't see a cat":
+            cat can be accusative or genitive (literally "of cat").             These two cases are in competition. I designed and ran an online experiment to 
+              test whether definiteness and existential commitment drive a
+               long-debated grammatical choice in Russian. I designed and ran an
+               online acceptability-rating experiment testing what drives the case alternation.
+Recrtuitment through word of mouth and social media yielded a large but heterogenous pool.
+so I applied strict inclusion criteria to get a cleaner data set. My two hypotheses about definiteness and
+ existential commitment were not supported, but the null result was informative. Exploratory analysis revealed
+ larger effects. Specifically, the experiment provided evidence of an ongoing language change. This project reveals how 
+ I work with data: pre-specifying hypthesis, digging into participant-level and item-level 
+ variation to find the story that the data actually tells.
+            <a class="here" href="https://github.com/elena-vaiksnoraite/genitive-of-negation-Russian" target="_blank" rel="noopener noreferrer">Learn more on Github →</a>
+          </article>
+
+    
+    </div>
+  </div>
+</body>
+</html>
